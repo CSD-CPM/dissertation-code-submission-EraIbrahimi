@@ -1,0 +1,14 @@
+\begin{table}
+\caption{4-layer ablation on the 2023+2024 holdout. RMSE / MAE / R² computed from pooled per-row predictions on the union.}
+\label{tbl:ch4-ablation-holdout}
+\begin{tabular}{lrrrrrr}
+\toprule
+layer & n\_features & n\_train & n\_test & rmse & mae & r2 \\
+\midrule
+L1\_structural & 3 & 1342 & 217 & 93803.3344 & 31592.0484 & 0.5875 \\
+L2\_policy & 7 & 1342 & 217 & 89748.0526 & 28940.0980 & 0.6224 \\
+L3\_macro & 10 & 1342 & 217 & 53300.1032 & 19475.7851 & 0.8668 \\
+L4\_lagged & 12 & 1342 & 217 & 56600.0223 & 17644.4465 & 0.8498 \\
+\bottomrule
+\end{tabular}
+\end{table}

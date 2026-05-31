@@ -1,0 +1,17 @@
+{
+  "improvement_pct": 13.036711243622332,
+  "scenario": "intermediate_xgb_gain",
+  "scenario_description": "intermediate XGB advantage (13.04% in [5%, 15%))",
+  "overfit_flag_C": false,
+  "scenarios_applied": [
+    "intermediate_xgb_gain"
+  ],
+  "in_sample_r2": 0.9867881323999927,
+  "oos_r2": 0.8497998557572034,
+  "r2_gap": 0.13698827664278934,
+  "xgb_holdout_rmse": 56600.02233578161,
+  "xgb_holdout_r2": 0.8497998557572034,
+  "ppml_holdout_rmse": 65084.96072905327,
+  "ppml_holdout_mae": 19027.005745355094,
+  "ppml_holdout_r2": 0.801391222189261
+}

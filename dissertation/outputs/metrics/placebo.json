@@ -1,0 +1,9 @@
+{
+  "beta": 0.723560306225671,
+  "se": 0.09531200490788966,
+  "t": 7.591491826501037,
+  "n": 60,
+  "n_treated_obs": 1,
+  "fake_year": 2014,
+  "interpretation": "|t|=7.59 >= 2.0 \u2014 placebo \u03b2 is statistically non-trivial; the design may be capturing confounders rather than only the tariff."
+}

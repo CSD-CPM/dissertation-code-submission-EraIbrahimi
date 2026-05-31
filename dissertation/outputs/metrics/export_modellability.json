@@ -1,0 +1,13 @@
+{
+  "phase1_panel_iso2_count": 113,
+  "phase1_panel_years": 15,
+  "effective_n_export_rows": 1695,
+  "export_zero_rate": 0.32684365781710917,
+  "import_zero_rate": 0.02064896755162242,
+  "var_log1p_exports": 12.752187332666352,
+  "var_log1p_imports": 9.239303444976459,
+  "var_log_ratio_exp_to_imp": 1.3802109010284642,
+  "partners_with_gt5_nonzero_export_years": 86,
+  "partners_with_any_export": 109,
+  "partners_with_zero_export_years": 4
+}

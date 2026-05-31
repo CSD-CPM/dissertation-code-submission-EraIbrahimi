@@ -1,0 +1,64 @@
+{
+  "xgboost": {
+    "last_train_year": 2022,
+    "test_years": [
+      2023,
+      2024
+    ],
+    "best_params": {
+      "max_depth": 4,
+      "n_estimators": 500,
+      "learning_rate": 0.05,
+      "reg_alpha": 0.1,
+      "reg_lambda": 3.0,
+      "min_child_weight": 5
+    },
+    "seed": 42,
+    "per_year": {
+      "2023": {
+        "rmse": 6503.068476230623,
+        "mae": 2350.428407965341,
+        "r2": 0.9201023854846173,
+        "n": 110
+      },
+      "2024": {
+        "rmse": 6570.214542560745,
+        "mae": 2138.898138336332,
+        "r2": 0.9357541488981115,
+        "n": 107
+      }
+    },
+    "combined": {
+      "rmse": 6536.263572866677,
+      "mae": 2246.1254639547233,
+      "r2": 0.9287727404432846,
+      "n": 217
+    }
+  },
+  "ppml_predictive_per_year": [
+    {
+      "last_train_year": 2022,
+      "test_year": 2023,
+      "n_train": 1342,
+      "n_test": 110,
+      "ppml_rmse_eur_thousands": 10388.758561862474,
+      "ppml_mae": 3482.599262812672,
+      "ppml_r2": 0.7960966010849909
+    },
+    {
+      "last_train_year": 2022,
+      "test_year": 2024,
+      "n_train": 1342,
+      "n_test": 107,
+      "ppml_rmse_eur_thousands": 10767.053485554467,
+      "ppml_mae": 3703.520279073875,
+      "ppml_r2": 0.8274639999833475
+    }
+  ],
+  "ppml_predictive_combined": {
+    "rmse": 10576.982149462041,
+    "mae": 3591.5326671442335,
+    "r2": 0.8134863312493099,
+    "n": 217
+  }
+}

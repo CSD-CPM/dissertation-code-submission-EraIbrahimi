@@ -1,0 +1,14 @@
+{
+  "n": 558,
+  "h": 1,
+  "mean_loss_diff": -41251830.15905651,
+  "var_loss_diff": 1.4853996414849477e+19,
+  "dm": -0.2528358557161832,
+  "dm_hln": -0.2526091986955322,
+  "hln_factor": 0.9991035408328105,
+  "df": 557,
+  "p_value": 0.8006634132352848,
+  "alpha": 0.05,
+  "sign_convention": "loss_diff = sq_err_PPML \u2212 sq_err_XGB; positive \u21d2 XGB favoured",
+  "interpretation": "no significant difference at \u03b1=0.05"
+}

@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Safeguards summary: main DiD plus placebo and three sensitivity refits. Cluster-robust SEs at partner level (placeholder; the bootstrap CI on the main spec is the canonical inference statement).}
+\label{tbl:ch5-safeguards-summary}
+\begin{tabular}{lrrrrl}
+\toprule
+spec & beta & se & t & n & notes \\
+\midrule
+Main (treatment\_years=\{2019\}) & -4.0937 & 0.0888 & -46.1217 & 60 & headline; bootstrap CI is canonical inference \\
+Placebo (fake treatment\_year=2014) & 0.7236 & 0.0953 & 7.5915 & 60 & |t|=7.59 >= 2.0 — placebo β is statistically non-trivial; the design may be capturing confounders rather than only the tariff. \\
+Sensitivity: window 2015-2021 & -4.3690 & 0.0481 & -90.8094 & 28 & status=ok \\
+Sensitivity: + ln\_partner\_gdp control & -4.1876 & 0.1617 & -25.9029 & 60 & substitute for Kosovo-GDP-control sensitivity (see §6 footnote) \\
+Sensitivity: treatment\_years=\{2018,2019,2020\} & -0.4682 & 0.1590 & -2.9448 & 60 & window-robust check \\
+\bottomrule
+\end{tabular}
+\end{table}

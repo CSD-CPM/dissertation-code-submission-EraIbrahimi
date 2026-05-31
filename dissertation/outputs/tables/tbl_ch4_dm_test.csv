@@ -1,0 +1,2 @@
+n,h,mean_loss_diff,dm,dm_hln,df,p_value,interpretation
+558,1,-41251830.15905651,-0.2528358557161832,-0.2526091986955322,557,0.8006634132352848,no significant difference at α=0.05

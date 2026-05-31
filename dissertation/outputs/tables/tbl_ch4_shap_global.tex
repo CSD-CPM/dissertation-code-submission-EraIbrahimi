@@ -1,0 +1,22 @@
+\begin{table}
+\caption{Global SHAP summary across the panel (predictive contributions in log1p(EUR thousands)). Sorted by mean(|SHAP|).}
+\label{tbl:ch4-shap-global}
+\begin{tabular}{lrrl}
+\toprule
+feature & mean\_shap & mean\_abs\_shap & mean\_shap\_sign \\
+\midrule
+lagged\_imports\_log1p & 0.1101 & 2.0705 & positive \\
+partner\_import\_share\_lag & 0.0296 & 0.2471 & positive \\
+ln\_distance & -0.0022 & 0.2183 & negative \\
+ln\_partner\_gdp & -0.0193 & 0.1754 & negative \\
+ln\_kosovo\_gdp & 0.0436 & 0.1320 & positive \\
+year\_trend & 0.0171 & 0.0707 & positive \\
+contiguity & -0.0033 & 0.0087 & negative \\
+covid & 0.0008 & 0.0086 & positive \\
+saa\_in\_force & -0.0053 & 0.0086 & negative \\
+cefta\_member & 0.0000 & 0.0079 & positive \\
+common\_language & 0.0002 & 0.0021 & positive \\
+serbia\_tariff & 0.0000 & 0.0000 & zero \\
+\bottomrule
+\end{tabular}
+\end{table}

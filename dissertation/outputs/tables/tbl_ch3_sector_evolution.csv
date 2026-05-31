@@ -1,0 +1,631 @@
+year,flow,hs_section,share_of_flow_pct
+2010,import,01 Live animals,4.073638602103046
+2010,import,02 Vegetable products,5.034093747726195
+2010,import,03 Edible oils,0.8942743915240436
+2010,import,04 Prepared foodstufs beverageas and tobacco,12.374364319489908
+2010,import,05 Mineral products,19.143941749813578
+2010,import,06 Product of chemical industries,6.702655155170232
+2010,import,07 Plastics. rubber and articles therof,5.012079841425723
+2010,import,08 Leather and their articles,0.17879926422573383
+2010,import,09 Wood and articles of wood,2.2744767989648365
+2010,import,10 Paper and their articles,1.9366212685849507
+2010,import,11 Textils and textile articles,3.322524119130919
+2010,import,12 Footwear,1.1335539667437076
+2010,import,13 Articl. of stone. plaster. ceramic product and glass,3.9284395106517183
+2010,import,14 Pearls. precious stones. metals etc,0.06720034554881132
+2010,import,15 Base metal and articles of base metal,8.812050829414472
+2010,import,16 Machinery. appliances and electric materials,13.843920013977671
+2010,import,17 Transport means,6.6304031974387865
+2010,import,18 Optical. medical. photog. musical instr,1.1700275336036488
+2010,import,19 Arms and ammunition,0.1542363793009959
+2010,import,20 Miscellaneous manufactured articles,2.868991304275286
+2010,import,21 Works of art,0.44370766088573765
+2010,export,01 Live animals,0.31355800485203983
+2010,export,02 Vegetable products,4.127950587583373
+2010,export,03 Edible oils,0.033788578109056014
+2010,export,04 Prepared foodstufs beverageas and tobacco,3.8873759114468944
+2010,export,05 Mineral products,13.158623858790774
+2010,export,06 Product of chemical industries,0.4605383196264335
+2010,export,07 Plastics. rubber and articles therof,2.754782773231337
+2010,export,08 Leather and their articles,3.2717480182998937
+2010,export,09 Wood and articles of wood,0.42945282776610194
+2010,export,10 Paper and their articles,0.3240324640658472
+2010,export,11 Textils and textile articles,2.8139127849221848
+2010,export,12 Footwear,0.017232174835618567
+2010,export,13 Articl. of stone. plaster. ceramic product and glass,0.4848660958649538
+2010,export,14 Pearls. precious stones. metals etc,0.008785030308354563
+2010,export,15 Base metal and articles of base metal,62.89101832016705
+2010,export,16 Machinery. appliances and electric materials,3.67349421201657
+2010,export,17 Transport means,0.4865555247704066
+2010,export,18 Optical. medical. photog. musical instr,0.1780658066347252
+2010,export,19 Arms and ammunition,0.0
+2010,export,20 Miscellaneous manufactured articles,0.6534711006291434
+2010,export,21 Works of art,0.03074760607924097
+2011,import,01 Live animals,3.949408349074848
+2011,import,02 Vegetable products,5.491889575613037
+2011,import,03 Edible oils,0.883624598170079
+2011,import,04 Prepared foodstufs beverageas and tobacco,12.201145265428423
+2011,import,05 Mineral products,21.649424558689237
+2011,import,06 Product of chemical industries,7.269410210773135
+2011,import,07 Plastics. rubber and articles therof,5.519413821825845
+2011,import,08 Leather and their articles,0.2016973552649951
+2011,import,09 Wood and articles of wood,2.162017503173714
+2011,import,10 Paper and their articles,1.8724913214366532
+2011,import,11 Textils and textile articles,3.5548005334728536
+2011,import,12 Footwear,1.1074296205826795
+2011,import,13 Articl. of stone. plaster. ceramic product and glass,3.658156886598501
+2011,import,14 Pearls. precious stones. metals etc,0.07133835242911503
+2011,import,15 Base metal and articles of base metal,9.154259357040027
+2011,import,16 Machinery. appliances and electric materials,10.955412326047567
+2011,import,17 Transport means,6.245115048139345
+2011,import,18 Optical. medical. photog. musical instr,1.0115762325325355
+2011,import,19 Arms and ammunition,0.05400529942046616
+2011,import,20 Miscellaneous manufactured articles,2.4858085628491686
+2011,import,21 Works of art,0.5015752214377768
+2011,export,01 Live animals,0.13691977503798974
+2011,export,02 Vegetable products,3.9998120094621905
+2011,export,03 Edible oils,0.014099290335719768
+2011,export,04 Prepared foodstufs beverageas and tobacco,4.0533893127379255
+2011,export,05 Mineral products,12.71286011937399
+2011,export,06 Product of chemical industries,0.7200037598107561
+2011,export,07 Plastics. rubber and articles therof,3.8942239907258003
+2011,export,08 Leather and their articles,2.9470649977284475
+2011,export,09 Wood and articles of wood,0.5097676750270237
+2011,export,10 Paper and their articles,0.43613804771826487
+2011,export,11 Textils and textile articles,3.664875534598092
+2011,export,12 Footwear,0.02694531041937556
+2011,export,13 Articl. of stone. plaster. ceramic product and glass,0.36250842040950604
+2011,export,14 Pearls. precious stones. metals etc,0.006892986386351887
+2011,export,15 Base metal and articles of base metal,60.5150940735983
+2011,export,16 Machinery. appliances and electric materials,4.7862390926323375
+2011,export,17 Transport means,0.33744301536822646
+2011,export,18 Optical. medical. photog. musical instr,0.182664139238325
+2011,export,19 Arms and ammunition,0.00031331756301599485
+2011,export,20 Miscellaneous manufactured articles,0.6513872135102533
+2011,export,21 Works of art,0.04135791831811132
+2012,import,01 Live animals,4.039663265021275
+2012,import,02 Vegetable products,5.44358971291389
+2012,import,03 Edible oils,1.0441815114790578
+2012,import,04 Prepared foodstufs beverageas and tobacco,12.401729136508468
+2012,import,05 Mineral products,21.936226127667382
+2012,import,06 Product of chemical industries,7.401430046937123
+2012,import,07 Plastics. rubber and articles therof,5.593014862757765
+2012,import,08 Leather and their articles,0.18172682354911648
+2012,import,09 Wood and articles of wood,2.0535888754630904
+2012,import,10 Paper and their articles,1.5419463154158741
+2012,import,11 Textils and textile articles,3.3193359413943955
+2012,import,12 Footwear,0.9182847412476421
+2012,import,13 Articl. of stone. plaster. ceramic product and glass,3.7987167063458833
+2012,import,14 Pearls. precious stones. metals etc,0.06564019125781122
+2012,import,15 Base metal and articles of base metal,9.908478591168484
+2012,import,16 Machinery. appliances and electric materials,10.723078947683252
+2012,import,17 Transport means,6.0066756792324165
+2012,import,18 Optical. medical. photog. musical instr,0.999078804120258
+2012,import,19 Arms and ammunition,0.10224875479041796
+2012,import,20 Miscellaneous manufactured articles,2.4486662599048494
+2012,import,21 Works of art,0.07269870514154912
+2012,export,01 Live animals,0.12278071147619359
+2012,export,02 Vegetable products,5.20061426574237
+2012,export,03 Edible oils,0.021368914386712158
+2012,export,04 Prepared foodstufs beverageas and tobacco,5.813431268154523
+2012,export,05 Mineral products,13.214319345749034
+2012,export,06 Product of chemical industries,0.8967700342627
+2012,export,07 Plastics. rubber and articles therof,5.071676409442887
+2012,export,08 Leather and their articles,3.7732432217079195
+2012,export,09 Wood and articles of wood,0.6580901261128134
+2012,export,10 Paper and their articles,0.5838422032437288
+2012,export,11 Textils and textile articles,4.14086098615729
+2012,export,12 Footwear,0.055776488399214785
+2012,export,13 Articl. of stone. plaster. ceramic product and glass,0.2988026164243649
+2012,export,14 Pearls. precious stones. metals etc,0.03440757401250263
+2012,export,15 Base metal and articles of base metal,52.81127988931627
+2012,export,16 Machinery. appliances and electric materials,6.0336397418345395
+2012,export,17 Transport means,0.24375049800436072
+2012,export,18 Optical. medical. photog. musical instr,0.10793112690237666
+2012,export,19 Arms and ammunition,0.0
+2012,export,20 Miscellaneous manufactured articles,0.888077594512173
+2012,export,21 Works of art,0.029336984158028555
+2013,import,01 Live animals,4.3187537437787435
+2013,import,02 Vegetable products,5.077411238502235
+2013,import,03 Edible oils,1.0481559682213157
+2013,import,04 Prepared foodstufs beverageas and tobacco,13.389447311073663
+2013,import,05 Mineral products,19.651924021554365
+2013,import,06 Product of chemical industries,7.768848739293354
+2013,import,07 Plastics. rubber and articles therof,6.049170641996551
+2013,import,08 Leather and their articles,0.20003568711788958
+2013,import,09 Wood and articles of wood,2.156294060218132
+2013,import,10 Paper and their articles,1.5823194421703322
+2013,import,11 Textils and textile articles,3.577531488573385
+2013,import,12 Footwear,0.9781700184927868
+2013,import,13 Articl. of stone. plaster. ceramic product and glass,3.9513887556179648
+2013,import,14 Pearls. precious stones. metals etc,0.07986727985356032
+2013,import,15 Base metal and articles of base metal,10.092553764439707
+2013,import,16 Machinery. appliances and electric materials,10.486296187562345
+2013,import,17 Transport means,5.531993256196349
+2013,import,18 Optical. medical. photog. musical instr,1.0615896773582387
+2013,import,19 Arms and ammunition,0.04728338960655565
+2013,import,20 Miscellaneous manufactured articles,2.8709755526909677
+2013,import,21 Works of art,0.07998977568155657
+2013,export,01 Live animals,0.0530893943725242
+2013,export,02 Vegetable products,5.243598644178544
+2013,export,03 Edible oils,0.015654565007282777
+2013,export,04 Prepared foodstufs beverageas and tobacco,6.580702685778848
+2013,export,05 Mineral products,16.454989722437755
+2013,export,06 Product of chemical industries,0.5918106206014075
+2013,export,07 Plastics. rubber and articles therof,6.195464259947455
+2013,export,08 Leather and their articles,3.9786417282639768
+2013,export,09 Wood and articles of wood,0.7262356896856835
+2013,export,10 Paper and their articles,0.5958944201685248
+2013,export,11 Textils and textile articles,4.339377356692667
+2013,export,12 Footwear,0.22154612651611058
+2013,export,13 Articl. of stone. plaster. ceramic product and glass,0.4066783735587591
+2013,export,14 Pearls. precious stones. metals etc,0.038455779257020734
+2013,export,15 Base metal and articles of base metal,48.97530662528416
+2013,export,16 Machinery. appliances and electric materials,4.284586379167177
+2013,export,17 Transport means,0.17424211486366917
+2013,export,18 Optical. medical. photog. musical instr,0.19125794639332436
+2013,export,19 Arms and ammunition,0.0
+2013,export,20 Miscellaneous manufactured articles,0.8892473557397803
+2013,export,21 Works of art,0.043220212085324186
+2014,import,01 Live animals,4.543291353075401
+2014,import,02 Vegetable products,5.241425879001047
+2014,import,03 Edible oils,0.981430354373889
+2014,import,04 Prepared foodstufs beverageas and tobacco,13.506367951287773
+2014,import,05 Mineral products,18.428765931696987
+2014,import,06 Product of chemical industries,7.7061901970424715
+2014,import,07 Plastics. rubber and articles therof,5.822121263694011
+2014,import,08 Leather and their articles,0.2853444146086255
+2014,import,09 Wood and articles of wood,2.169176972630889
+2014,import,10 Paper and their articles,1.5280482962066488
+2014,import,11 Textils and textile articles,4.742161794183276
+2014,import,12 Footwear,1.1414564502099014
+2014,import,13 Articl. of stone. plaster. ceramic product and glass,3.9512499527249347
+2014,import,14 Pearls. precious stones. metals etc,0.07138534851178095
+2014,import,15 Base metal and articles of base metal,8.977298513671949
+2014,import,16 Machinery. appliances and electric materials,11.276678895150209
+2014,import,17 Transport means,5.555411103967323
+2014,import,18 Optical. medical. photog. musical instr,1.1568996381881673
+2014,import,19 Arms and ammunition,0.020525257491522005
+2014,import,20 Miscellaneous manufactured articles,2.775755455542529
+2014,import,21 Works of art,0.1190149767406679
+2014,export,01 Live animals,0.09521080411532525
+2014,export,02 Vegetable products,5.712956372499176
+2014,export,03 Edible oils,0.005854386013563688
+2014,export,04 Prepared foodstufs beverageas and tobacco,6.313185001679284
+2014,export,05 Mineral products,13.774445913176374
+2014,export,06 Product of chemical industries,0.8035915117565315
+2014,export,07 Plastics. rubber and articles therof,5.012586929929162
+2014,export,08 Leather and their articles,3.5018472128500693
+2014,export,09 Wood and articles of wood,0.8381015766785911
+2014,export,10 Paper and their articles,0.7684651956751494
+2014,export,11 Textils and textile articles,4.5266728908033755
+2014,export,12 Footwear,0.5475391550580354
+2014,export,13 Articl. of stone. plaster. ceramic product and glass,0.9012673205091467
+2014,export,14 Pearls. precious stones. metals etc,0.0030812557966124676
+2014,export,15 Base metal and articles of base metal,51.576216402757105
+2014,export,16 Machinery. appliances and electric materials,4.12241213028782
+2014,export,17 Transport means,0.28994617046123317
+2014,export,18 Optical. medical. photog. musical instr,0.09212954831871277
+2014,export,19 Arms and ammunition,0.0
+2014,export,20 Miscellaneous manufactured articles,1.0966189380143772
+2014,export,21 Works of art,0.01787128362035231
+2015,import,01 Live animals,4.2499053020958035
+2015,import,02 Vegetable products,5.444047771771599
+2015,import,03 Edible oils,0.9722191647303254
+2015,import,04 Prepared foodstufs beverageas and tobacco,13.386032685389651
+2015,import,05 Mineral products,15.339580232087673
+2015,import,06 Product of chemical industries,8.116198693282787
+2015,import,07 Plastics. rubber and articles therof,6.192977248970848
+2015,import,08 Leather and their articles,0.2885344559937511
+2015,import,09 Wood and articles of wood,2.3702562802359592
+2015,import,10 Paper and their articles,1.4703415273272722
+2015,import,11 Textils and textile articles,4.652874299634037
+2015,import,12 Footwear,1.1611974673339673
+2015,import,13 Articl. of stone. plaster. ceramic product and glass,4.0489331967962885
+2015,import,14 Pearls. precious stones. metals etc,0.06304337429697718
+2015,import,15 Base metal and articles of base metal,9.889156008249914
+2015,import,16 Machinery. appliances and electric materials,11.781292248739323
+2015,import,17 Transport means,6.228958657058467
+2015,import,18 Optical. medical. photog. musical instr,1.1865514553113188
+2015,import,19 Arms and ammunition,0.052491864330354875
+2015,import,20 Miscellaneous manufactured articles,2.995034717504196
+2015,import,21 Works of art,0.11037334885948805
+2015,export,01 Live animals,0.20473786789796308
+2015,export,02 Vegetable products,4.776602089187012
+2015,export,03 Edible oils,0.012603982858583312
+2015,export,04 Prepared foodstufs beverageas and tobacco,7.819695413994725
+2015,export,05 Mineral products,12.793042601462062
+2015,export,06 Product of chemical industries,0.8822788001008318
+2015,export,07 Plastics. rubber and articles therof,7.215011650998789
+2015,export,08 Leather and their articles,3.310543692782529
+2015,export,09 Wood and articles of wood,0.7571612141631877
+2015,export,10 Paper and their articles,0.8687525745940595
+2015,export,11 Textils and textile articles,3.675751781465382
+2015,export,12 Footwear,0.9317724888869761
+2015,export,13 Articl. of stone. plaster. ceramic product and glass,0.7534722435704316
+2015,export,14 Pearls. precious stones. metals etc,1.6031651367685846
+2015,export,15 Base metal and articles of base metal,48.489059128050314
+2015,export,16 Machinery. appliances and electric materials,3.786113485032002
+2015,export,17 Transport means,0.5385897065423894
+2015,export,18 Optical. medical. photog. musical instr,0.10359859081323357
+2015,export,19 Arms and ammunition,0.0
+2015,export,20 Miscellaneous manufactured articles,1.4251723056681034
+2015,export,21 Works of art,0.05287524516283731
+2016,import,01 Live animals,3.9395689467584254
+2016,import,02 Vegetable products,5.302755733748032
+2016,import,03 Edible oils,0.9988553475488198
+2016,import,04 Prepared foodstufs beverageas and tobacco,13.37354135679853
+2016,import,05 Mineral products,11.741345111817811
+2016,import,06 Product of chemical industries,7.941658215310094
+2016,import,07 Plastics. rubber and articles therof,6.754632472639293
+2016,import,08 Leather and their articles,0.30084319982161634
+2016,import,09 Wood and articles of wood,2.6041291374454065
+2016,import,10 Paper and their articles,1.4964009588839262
+2016,import,11 Textils and textile articles,4.900101918162189
+2016,import,12 Footwear,1.255246024994506
+2016,import,13 Articl. of stone. plaster. ceramic product and glass,3.9864591881033578
+2016,import,14 Pearls. precious stones. metals etc,0.09499934217436645
+2016,import,15 Base metal and articles of base metal,9.872188243526692
+2016,import,16 Machinery. appliances and electric materials,12.821971591253321
+2016,import,17 Transport means,7.886952933741006
+2016,import,18 Optical. medical. photog. musical instr,1.271342139951597
+2016,import,19 Arms and ammunition,0.10302947524872799
+2016,import,20 Miscellaneous manufactured articles,3.26156043410039
+2016,import,21 Works of art,0.0924182279718931
+2016,export,01 Live animals,0.25030197722413494
+2016,export,02 Vegetable products,5.416857757423472
+2016,export,03 Edible oils,0.0029067326387318894
+2016,export,04 Prepared foodstufs beverageas and tobacco,8.929805636477557
+2016,export,05 Mineral products,20.632957180598527
+2016,export,06 Product of chemical industries,1.5189292888840085
+2016,export,07 Plastics. rubber and articles therof,9.324798305051901
+2016,export,08 Leather and their articles,3.6146835214097006
+2016,export,09 Wood and articles of wood,1.168829491063412
+2016,export,10 Paper and their articles,1.2844528560263027
+2016,export,11 Textils and textile articles,2.836971055402324
+2016,export,12 Footwear,1.0887328583516889
+2016,export,13 Articl. of stone. plaster. ceramic product and glass,1.1542958278697526
+2016,export,14 Pearls. precious stones. metals etc,0.0019378217591545929
+2016,export,15 Base metal and articles of base metal,35.907514226841414
+2016,export,16 Machinery. appliances and electric materials,2.9823076873389187
+2016,export,17 Transport means,0.4863932615478028
+2016,export,18 Optical. medical. photog. musical instr,0.17214316627156634
+2016,export,19 Arms and ammunition,0.0
+2016,export,20 Miscellaneous manufactured articles,3.1689845168041444
+2016,export,21 Works of art,0.056196831015483194
+2017,import,01 Live animals,3.986947238250644
+2017,import,02 Vegetable products,4.882839550012504
+2017,import,03 Edible oils,0.9308116985196674
+2017,import,04 Prepared foodstufs beverageas and tobacco,12.992735848623145
+2017,import,05 Mineral products,14.528007382956057
+2017,import,06 Product of chemical industries,7.562410199086451
+2017,import,07 Plastics. rubber and articles therof,6.3756433339087595
+2017,import,08 Leather and their articles,0.2956989423757917
+2017,import,09 Wood and articles of wood,2.5331652126767876
+2017,import,10 Paper and their articles,1.5120357017910626
+2017,import,11 Textils and textile articles,4.591702444816539
+2017,import,12 Footwear,1.1892282881164469
+2017,import,13 Articl. of stone. plaster. ceramic product and glass,3.645006363598771
+2017,import,14 Pearls. precious stones. metals etc,0.11286444648505523
+2017,import,15 Base metal and articles of base metal,10.07887055475222
+2017,import,16 Machinery. appliances and electric materials,11.861465865971255
+2017,import,17 Transport means,8.781175562467961
+2017,import,18 Optical. medical. photog. musical instr,1.0843716709254754
+2017,import,19 Arms and ammunition,0.08145668978653883
+2017,import,20 Miscellaneous manufactured articles,2.8960117728218213
+2017,import,21 Works of art,0.07755123205704725
+2017,export,01 Live animals,0.22380360307928363
+2017,export,02 Vegetable products,6.198248723578741
+2017,export,03 Edible oils,0.04735324462315812
+2017,export,04 Prepared foodstufs beverageas and tobacco,9.75662019523293
+2017,export,05 Mineral products,19.231766355387425
+2017,export,06 Product of chemical industries,1.5560434909129388
+2017,export,07 Plastics. rubber and articles therof,9.425676569402926
+2017,export,08 Leather and their articles,3.128753207587101
+2017,export,09 Wood and articles of wood,1.166106716753525
+2017,export,10 Paper and their articles,1.3782704161265575
+2017,export,11 Textils and textile articles,2.629824607814608
+2017,export,12 Footwear,0.721938573053623
+2017,export,13 Articl. of stone. plaster. ceramic product and glass,1.714240364011534
+2017,export,14 Pearls. precious stones. metals etc,1.0925636887913017
+2017,export,15 Base metal and articles of base metal,35.821803655987935
+2017,export,16 Machinery. appliances and electric materials,2.494378455596413
+2017,export,17 Transport means,0.46374434538768816
+2017,export,18 Optical. medical. photog. musical instr,0.15687415676833946
+2017,export,19 Arms and ammunition,0.0
+2017,export,20 Miscellaneous manufactured articles,2.7377582603634822
+2017,export,21 Works of art,0.05423136954048835
+2018,import,01 Live animals,3.9448929208777623
+2018,import,02 Vegetable products,4.533985696491586
+2018,import,03 Edible oils,0.8344460176557531
+2018,import,04 Prepared foodstufs beverageas and tobacco,11.96870879719248
+2018,import,05 Mineral products,15.254416552559881
+2018,import,06 Product of chemical industries,7.026627638809672
+2018,import,07 Plastics. rubber and articles therof,6.3937943436696205
+2018,import,08 Leather and their articles,0.29946122077280296
+2018,import,09 Wood and articles of wood,2.196497113394608
+2018,import,10 Paper and their articles,1.4253015601084071
+2018,import,11 Textils and textile articles,4.855078157795119
+2018,import,12 Footwear,1.1694015944375444
+2018,import,13 Articl. of stone. plaster. ceramic product and glass,3.5288201921057327
+2018,import,14 Pearls. precious stones. metals etc,0.1086342411184188
+2018,import,15 Base metal and articles of base metal,11.120339909250372
+2018,import,16 Machinery. appliances and electric materials,13.001122494070081
+2018,import,17 Transport means,8.02967184750812
+2018,import,18 Optical. medical. photog. musical instr,1.0009826678191378
+2018,import,19 Arms and ammunition,0.07774100533281784
+2018,import,20 Miscellaneous manufactured articles,3.1535599972632298
+2018,import,21 Works of art,0.07651603176685108
+2018,export,01 Live animals,0.19700680272108845
+2018,export,02 Vegetable products,6.483265306122449
+2018,export,03 Edible oils,0.09333333333333334
+2018,export,04 Prepared foodstufs beverageas and tobacco,10.627755102040817
+2018,export,05 Mineral products,13.952380952380953
+2018,export,06 Product of chemical industries,2.0258503401360546
+2018,export,07 Plastics. rubber and articles therof,12.188843537414966
+2018,export,08 Leather and their articles,2.9749659863945577
+2018,export,09 Wood and articles of wood,1.5412244897959184
+2018,export,10 Paper and their articles,1.4568707482993197
+2018,export,11 Textils and textile articles,2.8960544217687074
+2018,export,12 Footwear,0.5610884353741497
+2018,export,13 Articl. of stone. plaster. ceramic product and glass,2.11265306122449
+2018,export,14 Pearls. precious stones. metals etc,0.9564625850340136
+2018,export,15 Base metal and articles of base metal,34.076462585034015
+2018,export,16 Machinery. appliances and electric materials,3.1300680272108843
+2018,export,17 Transport means,0.8598639455782313
+2018,export,18 Optical. medical. photog. musical instr,0.2522448979591837
+2018,export,19 Arms and ammunition,0.0
+2018,export,20 Miscellaneous manufactured articles,3.5708843537414965
+2018,export,21 Works of art,0.04272108843537415
+2019,import,01 Live animals,4.253916783190788
+2019,import,02 Vegetable products,4.590907401211851
+2019,import,03 Edible oils,0.8593904144255432
+2019,import,04 Prepared foodstufs beverageas and tobacco,12.0235450212031
+2019,import,05 Mineral products,14.802252132462906
+2019,import,06 Product of chemical industries,7.063677930188469
+2019,import,07 Plastics. rubber and articles therof,6.31660819014449
+2019,import,08 Leather and their articles,0.2996743043581451
+2019,import,09 Wood and articles of wood,2.385270207284259
+2019,import,10 Paper and their articles,1.5021174505952024
+2019,import,11 Textils and textile articles,4.956693059737556
+2019,import,12 Footwear,1.2461075224541267
+2019,import,13 Articl. of stone. plaster. ceramic product and glass,3.307683729229397
+2019,import,14 Pearls. precious stones. metals etc,0.15012310094277306
+2019,import,15 Base metal and articles of base metal,10.627914890209972
+2019,import,16 Machinery. appliances and electric materials,12.33625858918599
+2019,import,17 Transport means,9.001581296663264
+2019,import,18 Optical. medical. photog. musical instr,1.2315241355054
+2019,import,19 Arms and ammunition,0.08183853617108887
+2019,import,20 Miscellaneous manufactured articles,2.8583438419503993
+2019,import,21 Works of art,0.10457146288528021
+2019,export,01 Live animals,0.3470592530012412
+2019,export,02 Vegetable products,5.994399073813323
+2019,export,03 Edible oils,0.3554032771154709
+2019,export,04 Prepared foodstufs beverageas and tobacco,10.384398760912418
+2019,export,05 Mineral products,10.436288160872785
+2019,export,06 Product of chemical industries,2.12824765063571
+2019,export,07 Plastics. rubber and articles therof,13.252396299425305
+2019,export,08 Leather and their articles,1.7063529313599717
+2019,export,09 Wood and articles of wood,1.4993168330256474
+2019,export,10 Paper and their articles,1.1360910333030863
+2019,export,11 Textils and textile articles,3.0106282007155
+2019,export,12 Footwear,0.6440543613171043
+2019,export,13 Articl. of stone. plaster. ceramic product and glass,2.2184674113708187
+2019,export,14 Pearls. precious stones. metals etc,0.889420820426171
+2019,export,15 Base metal and articles of base metal,35.044640529011126
+2019,export,16 Machinery. appliances and electric materials,4.401472720256161
+2019,export,17 Transport means,1.0422207620180022
+2019,export,18 Optical. medical. photog. musical instr,0.2834360691302398
+2019,export,19 Arms and ammunition,0.0
+2019,export,20 Miscellaneous manufactured articles,5.215015071393556
+2019,export,21 Works of art,0.010690780896356791
+2020,import,01 Live animals,4.465400487041943
+2020,import,02 Vegetable products,4.9732818545935915
+2020,import,03 Edible oils,0.9747815652076844
+2020,import,04 Prepared foodstufs beverageas and tobacco,12.807116102596707
+2020,import,05 Mineral products,10.732455751863414
+2020,import,06 Product of chemical industries,8.612173136494294
+2020,import,07 Plastics. rubber and articles therof,6.812429397725439
+2020,import,08 Leather and their articles,0.21961781646502676
+2020,import,09 Wood and articles of wood,2.4459175959978596
+2020,import,10 Paper and their articles,1.4310952134236234
+2020,import,11 Textils and textile articles,4.94774066654614
+2020,import,12 Footwear,1.0639027178008127
+2020,import,13 Articl. of stone. plaster. ceramic product and glass,3.4125999958745825
+2020,import,14 Pearls. precious stones. metals etc,0.1330143819335832
+2020,import,15 Base metal and articles of base metal,10.65228311527266
+2020,import,16 Machinery. appliances and electric materials,13.195087355716554
+2020,import,17 Transport means,8.762265533713762
+2020,import,18 Optical. medical. photog. musical instr,1.3687892748850647
+2020,import,19 Arms and ammunition,0.15200343623014492
+2020,import,20 Miscellaneous manufactured articles,2.6572542434166224
+2020,import,21 Works of art,0.18079035720049166
+2020,export,01 Live animals,0.2720664414888689
+2020,export,02 Vegetable products,6.693634656042318
+2020,export,03 Edible oils,0.3017579029826231
+2020,export,04 Prepared foodstufs beverageas and tobacco,9.172766401900253
+2020,export,05 Mineral products,5.492709798603449
+2020,export,06 Product of chemical industries,3.9538076667143978
+2020,export,07 Plastics. rubber and articles therof,12.043783323927528
+2020,export,08 Leather and their articles,0.8688437597392206
+2020,export,09 Wood and articles of wood,1.1434371341211749
+2020,export,10 Paper and their articles,0.9507585010234079
+2020,export,11 Textils and textile articles,3.21573268419235
+2020,export,12 Footwear,0.5496079042460895
+2020,export,13 Articl. of stone. plaster. ceramic product and glass,2.202432594065077
+2020,export,14 Pearls. precious stones. metals etc,0.4270516589314443
+2020,export,15 Base metal and articles of base metal,36.6207326420768
+2020,export,16 Machinery. appliances and electric materials,4.290100319235855
+2020,export,17 Transport means,1.0884763436965659
+2020,export,18 Optical. medical. photog. musical instr,0.18657187860614383
+2020,export,19 Arms and ammunition,0.0
+2020,export,20 Miscellaneous manufactured articles,10.482349373741798
+2020,export,21 Works of art,0.04337901466463389
+2021,import,01 Live animals,4.240234029339915
+2021,import,02 Vegetable products,3.7370530158945
+2021,import,03 Edible oils,0.8876651056029004
+2021,import,04 Prepared foodstufs beverageas and tobacco,11.868944935943157
+2021,import,05 Mineral products,13.435552161639588
+2021,import,06 Product of chemical industries,7.596645659161791
+2021,import,07 Plastics. rubber and articles therof,7.233851508016632
+2021,import,08 Leather and their articles,0.23011404938176197
+2021,import,09 Wood and articles of wood,2.247342608629565
+2021,import,10 Paper and their articles,1.3611505403591948
+2021,import,11 Textils and textile articles,5.034307893409311
+2021,import,12 Footwear,0.954079875769582
+2021,import,13 Articl. of stone. plaster. ceramic product and glass,3.4760051825296063
+2021,import,14 Pearls. precious stones. metals etc,0.14565990898337156
+2021,import,15 Base metal and articles of base metal,11.073269944338403
+2021,import,16 Machinery. appliances and electric materials,12.769440410196065
+2021,import,17 Transport means,9.635969778397545
+2021,import,18 Optical. medical. photog. musical instr,1.1944838381119163
+2021,import,19 Arms and ammunition,0.11859017945223933
+2021,import,20 Miscellaneous manufactured articles,2.699372934412052
+2021,import,21 Works of art,0.060266440430903984
+2021,export,01 Live animals,0.2915073829570731
+2021,export,02 Vegetable products,4.226526245588685
+2021,export,03 Edible oils,0.22428734185757554
+2021,export,04 Prepared foodstufs beverageas and tobacco,7.638075654303736
+2021,export,05 Mineral products,5.94526859567013
+2021,export,06 Product of chemical industries,2.3324560324032357
+2021,export,07 Plastics. rubber and articles therof,10.642202806039748
+2021,export,08 Leather and their articles,1.0307955121359962
+2021,export,09 Wood and articles of wood,1.3503553531897101
+2021,export,10 Paper and their articles,1.0028753769549057
+2021,export,11 Textils and textile articles,3.4070504295863455
+2021,export,12 Footwear,0.5378926517115308
+2021,export,13 Articl. of stone. plaster. ceramic product and glass,2.544701988945744
+2021,export,14 Pearls. precious stones. metals etc,0.5220139018455077
+2021,export,15 Base metal and articles of base metal,32.31021255029925
+2021,export,16 Machinery. appliances and electric materials,4.068929653168406
+2021,export,17 Transport means,0.9594734606544427
+2021,export,18 Optical. medical. photog. musical instr,0.18776621716572253
+2021,export,19 Arms and ammunition,0.0
+2021,export,20 Miscellaneous manufactured articles,20.746512960367962
+2021,export,21 Works of art,0.031095885154295136
+2022,import,01 Live animals,4.968812262873541
+2022,import,02 Vegetable products,3.578184614096971
+2022,import,03 Edible oils,1.083183376375768
+2022,import,04 Prepared foodstufs beverageas and tobacco,11.581133866109065
+2022,import,05 Mineral products,18.53904212436935
+2022,import,06 Product of chemical industries,7.145782988107237
+2022,import,07 Plastics. rubber and articles therof,6.812804066251067
+2022,import,08 Leather and their articles,0.22200959109805377
+2022,import,09 Wood and articles of wood,2.2023280507345113
+2022,import,10 Paper and their articles,1.5319725729493017
+2022,import,11 Textils and textile articles,4.737049854275174
+2022,import,12 Footwear,0.9553860023307461
+2022,import,13 Articl. of stone. plaster. ceramic product and glass,3.458686001124943
+2022,import,14 Pearls. precious stones. metals etc,0.17578123614656604
+2022,import,15 Base metal and articles of base metal,10.521552308084058
+2022,import,16 Machinery. appliances and electric materials,11.07854458172471
+2022,import,17 Transport means,7.265068812333803
+2022,import,18 Optical. medical. photog. musical instr,1.1489350987233384
+2022,import,19 Arms and ammunition,0.31776452655568077
+2022,import,20 Miscellaneous manufactured articles,2.593983469151661
+2022,import,21 Works of art,0.08199459658445692
+2022,export,01 Live animals,1.1584752905709392
+2022,export,02 Vegetable products,3.338020419392309
+2022,export,03 Edible oils,0.4535081486143697
+2022,export,04 Prepared foodstufs beverageas and tobacco,6.971397416456783
+2022,export,05 Mineral products,18.174501917763187
+2022,export,06 Product of chemical industries,2.048153044217295
+2022,export,07 Plastics. rubber and articles therof,12.815488831672809
+2022,export,08 Leather and their articles,0.9458025189997364
+2022,export,09 Wood and articles of wood,1.558965580485419
+2022,export,10 Paper and their articles,1.123798203406172
+2022,export,11 Textils and textile articles,3.1628309732535427
+2022,export,12 Footwear,0.42133663133144983
+2022,export,13 Articl. of stone. plaster. ceramic product and glass,3.0488776550271255
+2022,export,14 Pearls. precious stones. metals etc,0.9005018155359363
+2022,export,15 Base metal and articles of base metal,21.32219924893037
+2022,export,16 Machinery. appliances and electric materials,3.08786432238867
+2022,export,17 Transport means,1.114176815059878
+2022,export,18 Optical. medical. photog. musical instr,0.3099891057821537
+2022,export,19 Arms and ammunition,0.0
+2022,export,20 Miscellaneous manufactured articles,18.01394499973441
+2022,export,21 Works of art,0.030167061377442055
+2023,import,01 Live animals,4.772076377558591
+2023,import,02 Vegetable products,4.050649768988678
+2023,import,03 Edible oils,0.7396790211839529
+2023,import,04 Prepared foodstufs beverageas and tobacco,12.138040292538854
+2023,import,05 Mineral products,14.569785564572472
+2023,import,06 Product of chemical industries,6.919151614341394
+2023,import,07 Plastics. rubber and articles therof,5.834130186346993
+2023,import,08 Leather and their articles,0.29560458243719057
+2023,import,09 Wood and articles of wood,1.9906622009097137
+2023,import,10 Paper and their articles,1.4009571700377859
+2023,import,11 Textils and textile articles,5.356981699928308
+2023,import,12 Footwear,1.114005583210214
+2023,import,13 Articl. of stone. plaster. ceramic product and glass,3.2189312671602255
+2023,import,14 Pearls. precious stones. metals etc,0.3681579225779978
+2023,import,15 Base metal and articles of base metal,9.998975836847768
+2023,import,16 Machinery. appliances and electric materials,11.43550831110088
+2023,import,17 Transport means,9.988429998448545
+2023,import,18 Optical. medical. photog. musical instr,1.136111282931662
+2023,import,19 Arms and ammunition,1.908678447584986
+2023,import,20 Miscellaneous manufactured articles,2.6697871532083854
+2023,import,21 Works of art,0.09369571808540304
+2023,export,01 Live animals,1.7106697070432337
+2023,export,02 Vegetable products,3.9039534053133327
+2023,export,03 Edible oils,0.935350788025312
+2023,export,04 Prepared foodstufs beverageas and tobacco,10.39108217258716
+2023,export,05 Mineral products,7.154271637499199
+2023,export,06 Product of chemical industries,2.8138364607086275
+2023,export,07 Plastics. rubber and articles therof,13.693141752978562
+2023,export,08 Leather and their articles,0.7488758848686319
+2023,export,09 Wood and articles of wood,1.6478245739351813
+2023,export,10 Paper and their articles,1.3389790928322207
+2023,export,11 Textils and textile articles,4.712240263010888
+2023,export,12 Footwear,0.5601115415258661
+2023,export,13 Articl. of stone. plaster. ceramic product and glass,3.5599650173539565
+2023,export,14 Pearls. precious stones. metals etc,1.7293286445598322
+2023,export,15 Base metal and articles of base metal,22.029336886544503
+2023,export,16 Machinery. appliances and electric materials,4.036511992087695
+2023,export,17 Transport means,1.2730432154729525
+2023,export,18 Optical. medical. photog. musical instr,0.27954064672106377
+2023,export,19 Arms and ammunition,0.0
+2023,export,20 Miscellaneous manufactured articles,17.44519080194511
+2023,export,21 Works of art,0.03674551498667546
+2024,import,01 Live animals,5.100471369646859
+2024,import,02 Vegetable products,3.860810640257743
+2024,import,03 Edible oils,0.7543515512123938
+2024,import,04 Prepared foodstufs beverageas and tobacco,12.157013750531366
+2024,import,05 Mineral products,13.985760957130918
+2024,import,06 Product of chemical industries,7.505511452078466
+2024,import,07 Plastics. rubber and articles therof,5.591102058090171
+2024,import,08 Leather and their articles,0.2992917839021018
+2024,import,09 Wood and articles of wood,1.9604820566208692
+2024,import,10 Paper and their articles,1.3075531538817513
+2024,import,11 Textils and textile articles,5.342231191522253
+2024,import,12 Footwear,1.0798898400281804
+2024,import,13 Articl. of stone. plaster. ceramic product and glass,2.937536457839511
+2024,import,14 Pearls. precious stones. metals etc,0.27992085862489663
+2024,import,15 Base metal and articles of base metal,9.897569561086856
+2024,import,16 Machinery. appliances and electric materials,12.261607328426033
+2024,import,17 Transport means,11.642365626371584
+2024,import,18 Optical. medical. photog. musical instr,1.1642805161142866
+2024,import,19 Arms and ammunition,0.2019976227447942
+2024,import,20 Miscellaneous manufactured articles,2.579158642540812
+2024,import,21 Works of art,0.09109358134815361
+2024,export,01 Live animals,1.8179911975634448
+2024,export,02 Vegetable products,4.2313541265127865
+2024,export,03 Edible oils,0.7666125868912319
+2024,export,04 Prepared foodstufs beverageas and tobacco,11.27118536372532
+2024,export,05 Mineral products,9.124373599467956
+2024,export,06 Product of chemical industries,3.268720003727692
+2024,export,07 Plastics. rubber and articles therof,12.761309097686713
+2024,export,08 Leather and their articles,0.6646305560615239
+2024,export,09 Wood and articles of wood,1.8456311872275715
+2024,export,10 Paper and their articles,1.4625896446408073
+2024,export,11 Textils and textile articles,5.964413248556578
+2024,export,12 Footwear,0.5164759754480643
+2024,export,13 Articl. of stone. plaster. ceramic product and glass,3.9523067212830036
+2024,export,14 Pearls. precious stones. metals etc,1.4522114109738171
+2024,export,15 Base metal and articles of base metal,23.65845444802623
+2024,export,16 Machinery. appliances and electric materials,4.769433772043157
+2024,export,17 Transport means,1.2534364661478963
+2024,export,18 Optical. medical. photog. musical instr,0.2205904155953082
+2024,export,19 Arms and ammunition,0.0
+2024,export,20 Miscellaneous manufactured articles,10.956873144096479
+2024,export,21 Works of art,0.04140703432441935

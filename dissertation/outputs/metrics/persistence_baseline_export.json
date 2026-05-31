@@ -1,0 +1,26 @@
+{
+  "cv": {
+    "n": 558,
+    "rmse_eur_thousands": 6925.007614865835,
+    "mae_eur_thousands": 1749.1469534050175,
+    "r2": 0.8387270434598614
+  },
+  "holdout_combined": {
+    "n": 217,
+    "rmse_eur_thousands": 7605.112698789572,
+    "mae_eur_thousands": 2071.5207373271896,
+    "r2": 0.90357304996462
+  },
+  "holdout_2023": {
+    "n": 110,
+    "rmse_eur_thousands": 6565.9693475318145,
+    "mae_eur_thousands": 1919.509090909092,
+    "r2": 0.9185492925824768
+  },
+  "holdout_2024": {
+    "n": 107,
+    "rmse_eur_thousands": 8542.622392789843,
+    "mae_eur_thousands": 2227.794392523365,
+    "r2": 0.8913903525192561
+  }
+}

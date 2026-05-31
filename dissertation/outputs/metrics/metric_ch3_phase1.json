@@ -1,0 +1,35 @@
+{
+  "n": 1695,
+  "n_partners": 113,
+  "n_years": 15,
+  "year_min": 2010,
+  "year_max": 2024,
+  "balanced": true,
+  "zero_rows": 35,
+  "zero_rows_pct": 2.06,
+  "serbia_trajectory": {
+    "2010": 260471.0,
+    "2011": 254917.0,
+    "2012": 278388.0,
+    "2013": 285356.0,
+    "2014": 368234.0,
+    "2015": 382129.0,
+    "2016": 387647.0,
+    "2017": 449918.0,
+    "2018": 388928.0,
+    "2019": 5784.0,
+    "2020": 174029.0,
+    "2021": 306354.0,
+    "2022": 372065.0,
+    "2023": 198736.0,
+    "2024": 129723.0
+  },
+  "serbia_collapse_2017_to_2019_pct": 98.71,
+  "wdi_join_success_pct": 98.58,
+  "cepii_join_success_pct": 100.0,
+  "cepii_distance_sources": {
+    "haversine_fallback": 1695
+  },
+  "eurostat_status": "# Eurostat COMEXT HS2 \u2014 acquisition decision",
+  "anomalies": []
+}

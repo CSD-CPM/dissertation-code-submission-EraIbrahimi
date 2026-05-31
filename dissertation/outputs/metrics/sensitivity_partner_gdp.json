@@ -1,0 +1,11 @@
+{
+  "beta_with_gdp": -4.187589117905765,
+  "se": 0.16166489600740377,
+  "t": -25.902896802741804,
+  "beta_main": -4.09369471085977,
+  "abs_change_in_beta": 0.09389440704599483,
+  "pct_change_in_beta": 2.293634813483071,
+  "interpretation": "|\u0394\u03b2| = 0.0939 (2.3% of |\u03b2_main|) \u2014 \u03b2 survives the partner-GDP control variant.",
+  "n": 60,
+  "note": "Substitute for the original Kosovo-GDP-control sensitivity (the locked main DiD has no Kosovo-GDP control: it would be collinear with year FE). Reported as the closest robustness check available."
+}

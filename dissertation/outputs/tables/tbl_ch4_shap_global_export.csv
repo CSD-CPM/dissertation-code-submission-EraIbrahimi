@@ -1,0 +1,13 @@
+feature,mean_abs_shap,mean_shap,mean_shap_sign
+lagged_exports_log1p,1.6180716,0.079445004,positive
+partner_export_share_lag,0.77104676,0.053947944,positive
+ln_distance,0.52973706,-0.046289973,negative
+ln_partner_gdp,0.4355744,0.00973072,positive
+ln_kosovo_gdp,0.18265243,0.07359333,positive
+year_trend,0.093660384,0.016611034,positive
+saa_in_force,0.053355433,0.028133843,positive
+cefta_member,0.016747294,0.00029657772,positive
+contiguity,0.0076699834,-0.0019241655,negative
+common_language,0.0047027967,-0.0013141161,negative
+covid,0.0031272122,-0.00025984758,negative
+serbia_tariff,0.0,0.0,zero

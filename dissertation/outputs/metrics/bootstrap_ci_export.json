@@ -1,0 +1,15 @@
+{
+  "beta_export": -0.0038724824706584116,
+  "se_cluster_placeholder": 0.06180302947395445,
+  "n_boot": 1000,
+  "n_boot_completed": 1000,
+  "n_boot_failed": 0,
+  "bootstrap_mean": -0.005322431805104436,
+  "bootstrap_ci_low": -0.10907424973581037,
+  "bootstrap_ci_high": 0.09835910838379291,
+  "exp_beta_minus_1_pct": -0.38649940797550464,
+  "exp_ci_low_pct": -10.333616202657026,
+  "exp_ci_high_pct": 10.335893941856146,
+  "wall_time_seconds": 5.085703134536743,
+  "n_panel": 60
+}

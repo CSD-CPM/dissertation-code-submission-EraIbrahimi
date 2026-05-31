@@ -1,0 +1,10 @@
+{
+  "beta_2019_only": -4.09369471085977,
+  "beta_2018_19_20": -0.46820707594091937,
+  "se_2018_19_20": 0.1589962150626978,
+  "t_2018_19_20": -2.9447686899734618,
+  "abs_change_in_beta": 3.625487634918851,
+  "pct_change_in_beta": 88.5627261188076,
+  "interpretation": "|\u0394\u03b2| = 3.6255 (88.6% of |\u03b2_main|) \u2014 \u03b2 shifts when the post-period is {2018, 2019, 2020}; report as instability.",
+  "n": 60
+}

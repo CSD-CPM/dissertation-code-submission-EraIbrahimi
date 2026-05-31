@@ -1,0 +1,1066 @@
+{
+  "scenario_id": "turkey_fta_proxy",
+  "scenario_label": "Hypothetical Turkey FTA (cefta_member toggled on TR \u2014 proxy)",
+  "base_year": 2024,
+  "n_partners": 107,
+  "feature_changed": "cefta_member",
+  "manipulation": "cefta_member = 1 on TR row only",
+  "per_partner": [
+    {
+      "iso2": "AE",
+      "partner_name": "UNITED ARAB EMIRATES",
+      "imports_actual": 11910.0,
+      "baseline_pred": 9504.709923278751,
+      "scenario_pred": 9504.709923278751,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "AL",
+      "partner_name": "ALBANIA",
+      "imports_actual": 338578.0,
+      "baseline_pred": 226792.181192557,
+      "scenario_pred": 226792.181192557,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "AR",
+      "partner_name": "ARGENTINA",
+      "imports_actual": 10925.0,
+      "baseline_pred": 8783.321489416292,
+      "scenario_pred": 8783.321489416292,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "AT",
+      "partner_name": "AUSTRIA",
+      "imports_actual": 99797.0,
+      "baseline_pred": 121980.08668006647,
+      "scenario_pred": 121980.08668006647,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "AU",
+      "partner_name": "AUSTRALIA",
+      "imports_actual": 764.0,
+      "baseline_pred": 859.1020036060713,
+      "scenario_pred": 859.1020036060713,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "AZ",
+      "partner_name": "AZERBAIJAN",
+      "imports_actual": 461.0,
+      "baseline_pred": 216.84219895830842,
+      "scenario_pred": 216.84219895830842,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "BA",
+      "partner_name": "BOSNIA AND HERZEGOVINA",
+      "imports_actual": 58744.0,
+      "baseline_pred": 75679.06751411539,
+      "scenario_pred": 75679.06751411539,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "BD",
+      "partner_name": "BANGLADESH",
+      "imports_actual": 36029.0,
+      "baseline_pred": 29402.132825717024,
+      "scenario_pred": 29402.132825717024,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "BE",
+      "partner_name": "BELGIUM",
+      "imports_actual": 35371.0,
+      "baseline_pred": 35879.709613349776,
+      "scenario_pred": 35879.709613349776,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "BG",
+      "partner_name": "BULGARIA",
+      "imports_actual": 131899.0,
+      "baseline_pred": 104563.06227373618,
+      "scenario_pred": 104563.06227373618,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "BR",
+      "partner_name": "BRAZIL",
+      "imports_actual": 87897.0,
+      "baseline_pred": 104941.8853058356,
+      "scenario_pred": 104941.8853058356,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "BY",
+      "partner_name": "BELARUS",
+      "imports_actual": 228.0,
+      "baseline_pred": 480.06505115185576,
+      "scenario_pred": 480.06505115185576,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CA",
+      "partner_name": "CANADA",
+      "imports_actual": 4936.0,
+      "baseline_pred": 1699.603294317354,
+      "scenario_pred": 1699.603294317354,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CH",
+      "partner_name": "SWITZERLAND",
+      "imports_actual": 40751.0,
+      "baseline_pred": 47170.77018378606,
+      "scenario_pred": 47170.77018378606,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CI",
+      "partner_name": "C\u00d4TE D'IVOIRE",
+      "imports_actual": 407.0,
+      "baseline_pred": 1950.4999284513874,
+      "scenario_pred": 1950.4999284513874,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CL",
+      "partner_name": "CHILE",
+      "imports_actual": 302.0,
+      "baseline_pred": 576.6225191046831,
+      "scenario_pred": 576.6225191046831,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CM",
+      "partner_name": "CAMEROON",
+      "imports_actual": 88.0,
+      "baseline_pred": 562.3047733985513,
+      "scenario_pred": 562.3047733985513,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CN",
+      "partner_name": "CHINA",
+      "imports_actual": 759830.0,
+      "baseline_pred": 545048.2930414075,
+      "scenario_pred": 545048.2930414075,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CO",
+      "partner_name": "COLOMBIA",
+      "imports_actual": 5652.0,
+      "baseline_pred": 4027.9456463987385,
+      "scenario_pred": 4027.9456463987385,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CR",
+      "partner_name": "COSTA RICA",
+      "imports_actual": 2238.0,
+      "baseline_pred": 4368.039498525085,
+      "scenario_pred": 4368.039498525085,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CY",
+      "partner_name": "CYPRUS",
+      "imports_actual": 2475.0,
+      "baseline_pred": 2057.1324474774415,
+      "scenario_pred": 2057.1324474774415,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "CZ",
+      "partner_name": "CZECH REPUBLIC",
+      "imports_actual": 62379.0,
+      "baseline_pred": 76801.31476869398,
+      "scenario_pred": 76801.31476869398,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "DE",
+      "partner_name": "GERMANY",
+      "imports_actual": 903145.0,
+      "baseline_pred": 611034.4822182491,
+      "scenario_pred": 611034.4822182491,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "DK",
+      "partner_name": "DENMARK",
+      "imports_actual": 13812.0,
+      "baseline_pred": 31667.93366619755,
+      "scenario_pred": 31667.93366619755,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "DO",
+      "partner_name": "DOMINICAN REPUBLIC",
+      "imports_actual": 153.0,
+      "baseline_pred": 159.0028292360392,
+      "scenario_pred": 159.0028292360392,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "DZ",
+      "partner_name": "ALGERIA",
+      "imports_actual": 8017.0,
+      "baseline_pred": 10103.050690661214,
+      "scenario_pred": 10103.050690661214,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "EC",
+      "partner_name": "ECUADOR",
+      "imports_actual": 9442.0,
+      "baseline_pred": 6405.0458167131155,
+      "scenario_pred": 6405.0458167131155,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "EE",
+      "partner_name": "ESTONIA",
+      "imports_actual": 1152.0,
+      "baseline_pred": 606.1624059771444,
+      "scenario_pred": 606.1624059771444,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "EG",
+      "partner_name": "EGYPT",
+      "imports_actual": 64805.0,
+      "baseline_pred": 32184.44465261638,
+      "scenario_pred": 32184.44465261638,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "ES",
+      "partner_name": "SPAIN",
+      "imports_actual": 58634.0,
+      "baseline_pred": 76217.29842598153,
+      "scenario_pred": 76217.29842598153,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "ET",
+      "partner_name": "ETHIOPIA",
+      "imports_actual": 159.0,
+      "baseline_pred": 192.66779138551283,
+      "scenario_pred": 192.66779138551283,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "FI",
+      "partner_name": "FINLAND",
+      "imports_actual": 3420.0,
+      "baseline_pred": 5126.862727971971,
+      "scenario_pred": 5126.862727971971,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "FR",
+      "partner_name": "FRANCE",
+      "imports_actual": 94138.0,
+      "baseline_pred": 82524.67016413274,
+      "scenario_pred": 82524.67016413274,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "GB",
+      "partner_name": "UNITED KINGDOM",
+      "imports_actual": 46010.0,
+      "baseline_pred": 39017.66746575273,
+      "scenario_pred": 39017.66746575273,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "GE",
+      "partner_name": "GEORGIA",
+      "imports_actual": 81.0,
+      "baseline_pred": 186.83299895389527,
+      "scenario_pred": 186.83299895389527,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "GR",
+      "partner_name": "GREECE",
+      "imports_actual": 315432.0,
+      "baseline_pred": 319489.65362928633,
+      "scenario_pred": 319489.65362928633,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "GT",
+      "partner_name": "GUATEMALA",
+      "imports_actual": 18.0,
+      "baseline_pred": 2080.2812405296827,
+      "scenario_pred": 2080.2812405296827,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "HK",
+      "partner_name": "HONG KONG",
+      "imports_actual": 1742.0,
+      "baseline_pred": 2182.0910547151066,
+      "scenario_pred": 2182.0910547151066,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "HN",
+      "partner_name": "HONDURAS",
+      "imports_actual": 72.0,
+      "baseline_pred": 401.33646007457156,
+      "scenario_pred": 401.33646007457156,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "HR",
+      "partner_name": "CROATIA",
+      "imports_actual": 134577.0,
+      "baseline_pred": 113986.88679138693,
+      "scenario_pred": 113986.88679138693,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "HU",
+      "partner_name": "HUNGARY",
+      "imports_actual": 103681.0,
+      "baseline_pred": 87068.35120155325,
+      "scenario_pred": 87068.35120155325,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "ID",
+      "partner_name": "INDONESIA",
+      "imports_actual": 15060.0,
+      "baseline_pred": 6728.477979226318,
+      "scenario_pred": 6728.477979226318,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "IE",
+      "partner_name": "IRELAND",
+      "imports_actual": 9733.0,
+      "baseline_pred": 9468.851739724258,
+      "scenario_pred": 9468.851739724258,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "IL",
+      "partner_name": "ISRAEL",
+      "imports_actual": 12714.0,
+      "baseline_pred": 29589.45208617123,
+      "scenario_pred": 29589.45208617123,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "IN",
+      "partner_name": "INDIA",
+      "imports_actual": 79781.0,
+      "baseline_pred": 392185.1215762836,
+      "scenario_pred": 392185.1215762836,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "IQ",
+      "partner_name": "IRAQ",
+      "imports_actual": 841.0,
+      "baseline_pred": 172.929727366443,
+      "scenario_pred": 172.929727366443,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "IR",
+      "partner_name": "IRAN, ISLAMIC REPUBLIC OF",
+      "imports_actual": 15184.0,
+      "baseline_pred": 11062.905464197807,
+      "scenario_pred": 11062.905464197807,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "IT",
+      "partner_name": "ITALY",
+      "imports_actual": 331443.0,
+      "baseline_pred": 435798.5495373161,
+      "scenario_pred": 435798.5495373161,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "JO",
+      "partner_name": "JORDAN",
+      "imports_actual": 412.0,
+      "baseline_pred": 458.7989275677139,
+      "scenario_pred": 458.7989275677139,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "JP",
+      "partner_name": "JAPAN",
+      "imports_actual": 31995.0,
+      "baseline_pred": 30554.094810688497,
+      "scenario_pred": 30554.094810688497,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "KE",
+      "partner_name": "KENYA",
+      "imports_actual": 372.0,
+      "baseline_pred": 1006.0251033219242,
+      "scenario_pred": 1006.0251033219242,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "KG",
+      "partner_name": "KYRGYZSTAN",
+      "imports_actual": 2732.0,
+      "baseline_pred": 1329.5351208719505,
+      "scenario_pred": 1329.5351208719505,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "KH",
+      "partner_name": "CAMBODIA",
+      "imports_actual": 10202.0,
+      "baseline_pred": 9485.076545061223,
+      "scenario_pred": 9485.076545061223,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "KR",
+      "partner_name": "KOREA, REPUBLIC OF",
+      "imports_actual": 18976.0,
+      "baseline_pred": 25690.9146862365,
+      "scenario_pred": 25690.9146862365,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "KW",
+      "partner_name": "KUWAIT",
+      "imports_actual": 3655.0,
+      "baseline_pred": 128.07067797057704,
+      "scenario_pred": 128.07067797057704,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "KZ",
+      "partner_name": "KAZAKHSTAN",
+      "imports_actual": 345.0,
+      "baseline_pred": 439.3841605064782,
+      "scenario_pred": 439.3841605064782,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "LA",
+      "partner_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+      "imports_actual": 308.0,
+      "baseline_pred": 307.90584387872815,
+      "scenario_pred": 307.90584387872815,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "LK",
+      "partner_name": "SRI LANKA",
+      "imports_actual": 12100.0,
+      "baseline_pred": 8818.27426173798,
+      "scenario_pred": 8818.27426173798,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "LT",
+      "partner_name": "LITHUANIA",
+      "imports_actual": 6599.0,
+      "baseline_pred": 9977.528544145871,
+      "scenario_pred": 9977.528544145871,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "LU",
+      "partner_name": "LUXEMBOURG",
+      "imports_actual": 2320.0,
+      "baseline_pred": 5409.722979288646,
+      "scenario_pred": 5409.722979288646,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "LV",
+      "partner_name": "LATVIA",
+      "imports_actual": 1720.0,
+      "baseline_pred": 1796.5702479307038,
+      "scenario_pred": 1796.5702479307038,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "LY",
+      "partner_name": "LIBYAN ARAB JAMAHIRIYA",
+      "imports_actual": 1452.0,
+      "baseline_pred": 1130.756453707939,
+      "scenario_pred": 1130.756453707939,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MA",
+      "partner_name": "MOROCCO",
+      "imports_actual": 11682.0,
+      "baseline_pred": 8578.91641839512,
+      "scenario_pred": 8578.91641839512,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MD",
+      "partner_name": "MOLDOVA, REPUBLIC OF",
+      "imports_actual": 1217.0,
+      "baseline_pred": 1926.2546986491955,
+      "scenario_pred": 1926.2546986491955,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "ME",
+      "partner_name": "Montenegro",
+      "imports_actual": 25933.0,
+      "baseline_pred": 41467.93892857391,
+      "scenario_pred": 41467.93892857391,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MK",
+      "partner_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+      "imports_actual": 297714.0,
+      "baseline_pred": 242942.74040744305,
+      "scenario_pred": 242942.74040744305,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MM",
+      "partner_name": "MYANMAR",
+      "imports_actual": 5624.0,
+      "baseline_pred": 3405.406883251718,
+      "scenario_pred": 3405.406883251718,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MT",
+      "partner_name": "MALTA",
+      "imports_actual": 1208.0,
+      "baseline_pred": 691.3083390955208,
+      "scenario_pred": 691.3083390955208,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MU",
+      "partner_name": "MAURITIUS",
+      "imports_actual": 93.0,
+      "baseline_pred": 239.4088012104068,
+      "scenario_pred": 239.4088012104068,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MX",
+      "partner_name": "MEXICO",
+      "imports_actual": 5095.0,
+      "baseline_pred": 5805.098580623969,
+      "scenario_pred": 5805.098580623969,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "MY",
+      "partner_name": "MALAYSIA",
+      "imports_actual": 5260.0,
+      "baseline_pred": 9213.313195501596,
+      "scenario_pred": 9213.313195501596,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NG",
+      "partner_name": "NIGERIA",
+      "imports_actual": 1143.0,
+      "baseline_pred": 57.083301002601175,
+      "scenario_pred": 57.083301002601175,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NI",
+      "partner_name": "NICARAGUA",
+      "imports_actual": 103.0,
+      "baseline_pred": 238.48112818030322,
+      "scenario_pred": 238.48112818030322,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NL",
+      "partner_name": "NETHERLANDS",
+      "imports_actual": 59721.0,
+      "baseline_pred": 55987.96885130663,
+      "scenario_pred": 55987.96885130663,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NO",
+      "partner_name": "NORWAY",
+      "imports_actual": 2740.0,
+      "baseline_pred": 3597.085155210189,
+      "scenario_pred": 3597.085155210189,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NZ",
+      "partner_name": "NEW ZEALAND",
+      "imports_actual": 229.0,
+      "baseline_pred": 203.53152153067728,
+      "scenario_pred": 203.53152153067728,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "OM",
+      "partner_name": "OMAN",
+      "imports_actual": 8378.0,
+      "baseline_pred": 455.709607244128,
+      "scenario_pred": 455.709607244128,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PE",
+      "partner_name": "PERU",
+      "imports_actual": 910.0,
+      "baseline_pred": 687.453425799425,
+      "scenario_pred": 687.453425799425,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PH",
+      "partner_name": "PHILIPPINES",
+      "imports_actual": 1633.0,
+      "baseline_pred": 1533.618598271546,
+      "scenario_pred": 1533.618598271546,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PK",
+      "partner_name": "PAKISTAN",
+      "imports_actual": 8827.0,
+      "baseline_pred": 9691.065531577926,
+      "scenario_pred": 9691.065531577926,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PL",
+      "partner_name": "POLAND",
+      "imports_actual": 208609.0,
+      "baseline_pred": 182544.6632858955,
+      "scenario_pred": 182544.6632858955,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PT",
+      "partner_name": "PORTUGAL",
+      "imports_actual": 13298.0,
+      "baseline_pred": 9891.0882225799,
+      "scenario_pred": 9891.0882225799,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PY",
+      "partner_name": "PARAGUAY",
+      "imports_actual": 5560.0,
+      "baseline_pred": 3768.1034396532496,
+      "scenario_pred": 3768.1034396532496,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "QA",
+      "partner_name": "QATAR",
+      "imports_actual": 3284.0,
+      "baseline_pred": 5511.921857421828,
+      "scenario_pred": 5511.921857421828,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "RO",
+      "partner_name": "ROMANIA",
+      "imports_actual": 85696.0,
+      "baseline_pred": 90297.42708066263,
+      "scenario_pred": 90297.42708066263,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "RU",
+      "partner_name": "RUSSIAN FEDERATION",
+      "imports_actual": 195.0,
+      "baseline_pred": 2224.3102323328994,
+      "scenario_pred": 2224.3102323328994,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SA",
+      "partner_name": "SAUDI ARABIA",
+      "imports_actual": 184839.0,
+      "baseline_pred": 54513.98660965608,
+      "scenario_pred": 54513.98660965608,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SC",
+      "partner_name": "SEYCHELLES",
+      "imports_actual": 3.0,
+      "baseline_pred": 25.035591410480365,
+      "scenario_pred": 25.035591410480365,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SE",
+      "partner_name": "SWEDEN",
+      "imports_actual": 20910.0,
+      "baseline_pred": 19969.62241416868,
+      "scenario_pred": 19969.62241416868,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SG",
+      "partner_name": "SINGAPORE",
+      "imports_actual": 3509.0,
+      "baseline_pred": 5011.521336720482,
+      "scenario_pred": 5011.521336720482,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SI",
+      "partner_name": "SLOVENIA",
+      "imports_actual": 120689.0,
+      "baseline_pred": 82681.042812527,
+      "scenario_pred": 82681.042812527,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SK",
+      "partner_name": "SLOVAKIA",
+      "imports_actual": 28544.0,
+      "baseline_pred": 27417.053090369674,
+      "scenario_pred": 27417.053090369674,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "SL",
+      "partner_name": "SIERRA LEONE",
+      "imports_actual": 91.0,
+      "baseline_pred": 82.60908858465794,
+      "scenario_pred": 82.60908858465794,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "TH",
+      "partner_name": "THAILAND",
+      "imports_actual": 17478.0,
+      "baseline_pred": 8317.319691677894,
+      "scenario_pred": 8317.319691677894,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "TM",
+      "partner_name": "TURKMENISTAN",
+      "imports_actual": 338.0,
+      "baseline_pred": 2014.3605866790617,
+      "scenario_pred": 2014.3605866790617,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "TN",
+      "partner_name": "TUNISIA",
+      "imports_actual": 2357.0,
+      "baseline_pred": 3316.608255345834,
+      "scenario_pred": 3316.608255345834,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "TR",
+      "partner_name": "TURKEY",
+      "imports_actual": 918015.0,
+      "baseline_pred": 1044913.4478038824,
+      "scenario_pred": 1044913.4478038824,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "TZ",
+      "partner_name": "TANZANIA, UNITED REPUBLIC OF",
+      "imports_actual": 272.0,
+      "baseline_pred": 188.93686050418782,
+      "scenario_pred": 188.93686050418782,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "UA",
+      "partner_name": "UKRAINE",
+      "imports_actual": 16171.0,
+      "baseline_pred": 30522.349139458798,
+      "scenario_pred": 30522.349139458798,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "UG",
+      "partner_name": "UGANDA",
+      "imports_actual": 1640.0,
+      "baseline_pred": 445.98380932112104,
+      "scenario_pred": 445.98380932112104,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "US",
+      "partner_name": "UNITED STATES",
+      "imports_actual": 107863.0,
+      "baseline_pred": 99711.75347474082,
+      "scenario_pred": 99711.75347474082,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "UY",
+      "partner_name": "URUGUAY",
+      "imports_actual": 165.0,
+      "baseline_pred": 330.0288602260992,
+      "scenario_pred": 330.0288602260992,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "UZ",
+      "partner_name": "UZBEKISTAN",
+      "imports_actual": 874.0,
+      "baseline_pred": 1785.9422945557567,
+      "scenario_pred": 1785.9422945557567,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "VE",
+      "partner_name": "VENEZUELA",
+      "imports_actual": 60.0,
+      "baseline_pred": 68.04114195538165,
+      "scenario_pred": 68.04114195538165,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "VN",
+      "partner_name": "VIET NAM",
+      "imports_actual": 34527.0,
+      "baseline_pred": 36416.95327715174,
+      "scenario_pred": 36416.95327715174,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "XS",
+      "partner_name": "SERBIA 06/2005",
+      "imports_actual": 129723.0,
+      "baseline_pred": 286209.45874026034,
+      "scenario_pred": 286209.45874026034,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "ZA",
+      "partner_name": "SOUTH AFRICA",
+      "imports_actual": 7933.0,
+      "baseline_pred": 6734.404152152647,
+      "scenario_pred": 6734.404152152647,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    }
+  ],
+  "summary_top10": [
+    {
+      "iso2": "AE",
+      "partner_name": "UNITED ARAB EMIRATES",
+      "imports_actual": 11910.0,
+      "baseline_pred": 9504.709923278751,
+      "scenario_pred": 9504.709923278751,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PL",
+      "partner_name": "POLAND",
+      "imports_actual": 208609.0,
+      "baseline_pred": 182544.6632858955,
+      "scenario_pred": 182544.6632858955,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PH",
+      "partner_name": "PHILIPPINES",
+      "imports_actual": 1633.0,
+      "baseline_pred": 1533.618598271546,
+      "scenario_pred": 1533.618598271546,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "PE",
+      "partner_name": "PERU",
+      "imports_actual": 910.0,
+      "baseline_pred": 687.453425799425,
+      "scenario_pred": 687.453425799425,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "OM",
+      "partner_name": "OMAN",
+      "imports_actual": 8378.0,
+      "baseline_pred": 455.709607244128,
+      "scenario_pred": 455.709607244128,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NZ",
+      "partner_name": "NEW ZEALAND",
+      "imports_actual": 229.0,
+      "baseline_pred": 203.53152153067728,
+      "scenario_pred": 203.53152153067728,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NO",
+      "partner_name": "NORWAY",
+      "imports_actual": 2740.0,
+      "baseline_pred": 3597.085155210189,
+      "scenario_pred": 3597.085155210189,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NL",
+      "partner_name": "NETHERLANDS",
+      "imports_actual": 59721.0,
+      "baseline_pred": 55987.96885130663,
+      "scenario_pred": 55987.96885130663,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NI",
+      "partner_name": "NICARAGUA",
+      "imports_actual": 103.0,
+      "baseline_pred": 238.48112818030322,
+      "scenario_pred": 238.48112818030322,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    },
+    {
+      "iso2": "NG",
+      "partner_name": "NIGERIA",
+      "imports_actual": 1143.0,
+      "baseline_pred": 57.083301002601175,
+      "scenario_pred": 57.083301002601175,
+      "delta_eur_thousands": 0.0,
+      "delta_pct": 0.0
+    }
+  ],
+  "caveat": "Conditional prediction under manipulated inputs; not a causal estimate. Turkey is not a CEFTA member; the cefta_member toggle is a proxy for an FTA-like preferential trade agreement, not a forecast that Turkey will join CEFTA."
+}

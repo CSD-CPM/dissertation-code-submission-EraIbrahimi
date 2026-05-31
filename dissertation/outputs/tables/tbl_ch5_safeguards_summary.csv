@@ -1,0 +1,6 @@
+spec,beta,se,t,n,notes
+Main (treatment_years={2019}),-4.09369471085977,0.08875846791452612,-46.12173696826284,60,headline; bootstrap CI is canonical inference
+Placebo (fake treatment_year=2014),0.723560306225671,0.09531200490788966,7.591491826501037,60,|t|=7.59 >= 2.0 — placebo β is statistically non-trivial; the design may be capturing confounders rather than only the tariff.
+Sensitivity: window 2015-2021,-4.368988319779829,0.048111617478225475,-90.80942501584282,28,status=ok
+Sensitivity: + ln_partner_gdp control,-4.187589117905765,0.16166489600740377,-25.902896802741804,60,substitute for Kosovo-GDP-control sensitivity (see §6 footnote)
+"Sensitivity: treatment_years={2018,2019,2020}",-0.46820707594091937,0.1589962150626978,-2.9447686899734618,60,window-robust check

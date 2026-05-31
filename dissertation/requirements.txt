@@ -1,0 +1,38 @@
+# Core data + scientific stack
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==18.1.0
+
+# Statistical modeling
+statsmodels==0.14.4
+# scipy must stay below 1.17: scipy 1.17 removed scipy._lib._util._lazywhere,
+# which statsmodels 0.14.4 still imports at runtime (PPML fits crash otherwise).
+# 1.14.1 is the earliest scipy with prebuilt Python 3.13 wheels.
+scipy==1.14.1
+scikit-learn==1.5.2
+
+# ML
+xgboost==2.1.3
+shap==0.46.0
+optuna==4.1.0
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Dashboard
+streamlit==1.40.2
+
+# Data acquisition
+wbdata==1.0.0
+requests==2.32.3
+pycountry==24.6.1
+
+# IO
+openpyxl==3.1.5
+joblib==1.4.2
+pdfplumber==0.11.4
+
+# Test
+pytest==8.3.4
